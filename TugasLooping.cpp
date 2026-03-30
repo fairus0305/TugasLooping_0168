@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Variabel global
+// variabel global
 int n;
 int pilihan;
