@@ -40,7 +40,7 @@ bool Fibonacci(int x){
     return false;
 }
 
-// Prosedur input
+//Prosedur input
 void input()
 {
     cout << "Masukkan bilangan: ";
@@ -58,5 +58,7 @@ void outputPrima(){
 
 // output Fibonacci
 void outputFibonacci(){
-    
+    if (Fibonacci(n)){
+        cout << n << " termasuk bilangan Fibonacci" << endl;
+    }
 }
