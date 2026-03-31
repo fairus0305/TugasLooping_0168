@@ -80,7 +80,10 @@ int main(){
         menu();
 
         switch (pilihan){
-            
+        case 1:
+            input();
+            outputPrima();
+            break;
         }
     }
 }
