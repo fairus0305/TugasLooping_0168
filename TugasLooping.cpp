@@ -65,3 +65,7 @@ void outputFibonacci(){
     }
 }
 
+//menu
+void menu(){
+    cout << "\n=== MENU ===" << endl;
+}
